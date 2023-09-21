@@ -1,1 +1,2 @@
-This is a new module
+This is a new module.
+With a further line added.
